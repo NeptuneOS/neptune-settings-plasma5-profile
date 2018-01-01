@@ -1,0 +1,116 @@
+neptune-settings-plasma5-profile (2.8) stretch; urgency=medium
+
+  * Use Breeze in default konsole neptune.profile
+
+ -- Leszek Lesner <leszek@zevenos.com>  Thu, 22 Jun 2017 21:19:59 +0200
+
+neptune-settings-plasma5-profile (2.7) stretch; urgency=medium
+
+  * Use Dejavu Sans Mono 13 as default font in kate/kwrite
+
+ -- Leszek Lesner <leszek@zevenos.com>  Thu, 22 Jun 2017 19:33:50 +0200
+
+neptune-settings-plasma5-profile (2.6) stretch; urgency=medium
+
+  * Add kconf_updaterc to disable breeze overwriting gtk theme settings
+
+ -- Leszek Lesner <leszek@zevenos.com>  Wed, 21 Jun 2017 17:02:55 +0200
+
+neptune-settings-plasma5-profile (2.5) stretch; urgency=medium
+
+  * Use neptune-classic font,icon & kwin settings
+
+ -- Leszek Lesner <leszek@zevenos.com>  Wed, 21 Jun 2017 14:38:05 +0200
+
+neptune-settings-plasma5-profile (2.4) stretch; urgency=medium
+
+  * Added kdesurc
+  * Use neptune-classic by default as lnf
+
+ -- Leszek Lesner <leszek@zevenos.com>  Wed, 21 Jun 2017 10:55:54 +0200
+
+neptune-settings-plasma5-profile (2.3) stretch; urgency=medium
+
+  * Don't ship menu config as it is shipped in neptune-base
+
+ -- Leszek Lesner <leszek@zevenos.com>  Tue, 20 Jun 2017 18:04:56 +0200
+
+neptune-settings-plasma5-profile (2.2) unstable; urgency=medium
+
+  * Remove unecessary menu entries
+
+ -- Leszek Lesner <leszek@zevenos.com>  Sun, 18 Jun 2017 19:43:06 +0200
+
+neptune-settings-plasma5-profile (2.1) unstable; urgency=medium
+
+  * Updated excalibur menu to support Plasma > 5.8
+
+ -- Leszek Lesner <leszek@zevenos.com>  Sun, 18 Jun 2017 17:44:53 +0200
+
+neptune-settings-plasma5-profile (2.0) unstable; urgency=medium
+
+  * Remove vlc solid desktop files as now included in vlc 2.2.6
+  * Added aurorae ElementaryNeptune theme
+
+ -- Leszek Lesner <leszek@zevenos.com>  Sat, 17 Jun 2017 23:54:55 +0200
+
+neptune-settings-plasma5-profile (1.9) unstable; urgency=medium
+
+  * Remove gwenview solid desktop files as now included in gwenview
+
+ -- Leszek Lesner <leszek@zevenos.com>  Fri, 12 May 2017 18:36:48 +0200
+
+neptune-settings-plasma5-profile (1.8) unstable; urgency=medium
+
+  * Updated excalibur plasmoid (more than 3 sysactions, scrolling through
+    favorites)
+
+ -- Leszek Lesner <leszek@zevenos.com>  Wed, 03 May 2017 12:48:48 +0200
+
+neptune-settings-plasma5-profile (1.7) unstable; urgency=medium
+
+  * Updated excalibur plasmoid (set favorites to 7 visible)
+
+ -- Leszek Lesner <leszek@zevenos.com>  Fri, 07 Apr 2017 14:25:06 +0200
+
+neptune-settings-plasma5-profile (1.6) unstable; urgency=medium
+
+  * Ship excalibur plasmoid unpacked
+
+ -- Leszek Lesner <leszek@zevenos.com>  Thu, 16 Mar 2017 15:29:28 +0100
+
+neptune-settings-plasma5-profile (1.5) unstable; urgency=medium
+
+  * Added excalibur plasmoid
+
+ -- Leszek Lesner <leszek@zevenos.com>  Thu, 16 Mar 2017 11:24:42 +0100
+
+neptune-settings-plasma5-profile (1.4) unstable; urgency=medium
+
+  * Removed ksnapshot kglobalshortcut as using spectacle now by default
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 20 Feb 2017 10:54:01 +0100
+
+neptune-settings-plasma5-profile (1.3) unstable; urgency=medium
+
+  * Set dolphin as default filemanager in mimeapps.list
+
+ -- Leszek Lesner <leszek@zevenos.com>  Tue, 24 Jan 2017 11:46:45 +0100
+
+neptune-settings-plasma5-profile (1.2) unstable; urgency=medium
+
+  * Force kwinrc to use breeze decoration
+
+ -- Leszek Lesner <leszek@zevenos.com>  Tue, 24 Jan 2017 10:31:50 +0100
+
+neptune-settings-plasma5-profile (1.1) unstable; urgency=medium
+
+  * Added /etc/skel/.local + /etc/skel/.config/konsolerc
+
+ -- Leszek Lesner <leszek@zevenos.com>  Thu, 13 Oct 2016 17:18:42 +0200
+
+neptune-settings-plasma5-profile (1.0) unstable; urgency=medium
+
+  * Initial release
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 04 Apr 2016 12:19:09 +0200

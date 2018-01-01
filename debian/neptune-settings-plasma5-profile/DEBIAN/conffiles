@@ -1,0 +1,17 @@
+/etc/X11/Xsession.d/61-neptune-xdg
+/etc/skel/.config/konsolerc
+/etc/skel/.local/share/applications/chromium.desktop
+/etc/skel/.local/share/dolphin/view_properties/global/.directory
+/etc/skel/.local/share/dolphin/view_properties/local/media/user/3611b9f3-b2f2-4ca3-8a76-b00830666f99/leszek/Videos/.directory
+/etc/skel/.local/share/dolphin/view_properties/local/usr/share/wallpapers/.directory
+/etc/skel/.local/share/dolphin/view_properties/remote/.directory
+/etc/skel/.local/share/dolphin/view_properties/search/4q7tkET9IhJDDub3re59tvSUyd0=/.directory
+/etc/skel/.local/share/dolphin/view_properties/search/Xo9r2Pm1nyVfHzqZ7Fr8MNtwCdI=/.directory
+/etc/skel/.local/share/dolphin/view_properties/search/msHUlfwuRUaQTdh3Obgfxz9EleA=/.directory
+/etc/skel/.local/share/dolphin/view_properties/search/r8CF03VazuRuET6C3wcIa+Y0Mt0=/.directory
+/etc/skel/.local/share/konsole/neptune.profile
+/etc/skel/.local/share/kwalletd/kdewallet.kwl
+/etc/skel/.local/share/kwalletd/kdewallet.salt
+/etc/skel/.local/share/kxmlgui5/dolphin/dolphinui.rc
+/etc/skel/.local/share/yakuake/Profil #1.profile
+/etc/skel/.local/share/yakuake/Profile 1.profile

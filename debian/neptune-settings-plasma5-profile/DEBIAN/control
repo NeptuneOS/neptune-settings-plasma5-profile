@@ -1,0 +1,11 @@
+Package: neptune-settings-plasma5-profile
+Version: 2.8
+Architecture: all
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Installed-Size: 1192
+Breaks: netrunner-artwork (<< 1.1.49)
+Replaces: netrunner-artwork (<< 1.1.49)
+Section: admin
+Priority: optional
+Description: Default Plasma 5 profile for Neptune
+  This package provides the neptune plasma 5 profile.

@@ -1,0 +1,28 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "leszek@zevenos.com",
+                "Name": "Leszek Lesner"
+            }
+        ],
+        "Category": "Application Launchers",
+        "Dependencies": [
+        ],
+        "Description": "A lancelot inspired launcher based on kicker",
+        "EnabledByDefault": true,
+        "Icon": "start-here-kde",
+        "Id": "org.kde.plasma.excalibur",
+        "License": "GPL v2+",
+        "Name": "Excalibur Menu",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "2.3"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.launchermenu"
+    ]
+}
