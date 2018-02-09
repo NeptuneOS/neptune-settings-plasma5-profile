@@ -70,6 +70,10 @@
       <label>Whether to align search results to the bottom of the menu representation (e.g. panel popup) instead of the top.</label>
       <default>true</default>
     </entry>
+    <entry name="favoritesPortedToKAstats" type="Bool">
+      <label>Are the favorites ported to use KActivitiesStats to allow per-activity favorites</label>
+      <default>false</default>
+    </entry>
 
   </group>
 </kcfg>

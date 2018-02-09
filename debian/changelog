@@ -1,3 +1,9 @@
+neptune-settings-plasma5-profile (2.9) stretch; urgency=medium
+
+  * Updated excalibur menu
+
+ -- Leszek Lesner <leszek@zevenos.com>  Fri, 09 Feb 2018 11:57:17 +0100
+
 neptune-settings-plasma5-profile (2.8) stretch; urgency=medium
 
   * Use Breeze in default konsole neptune.profile
