@@ -1,3 +1,33 @@
+neptune-settings-plasma5-profile (2.14) stretch; urgency=medium
+
+  * Fix excalibur sysaction removal and adding
+
+ -- Leszek Lesner <leszek@zevenos.com>  Wed, 06 Feb 2019 14:09:26 +0100
+
+neptune-settings-plasma5-profile (2.13) stretch; urgency=medium
+
+  * Fix kglobalshortcuts for switching virtual desktops
+
+ -- Leszek Lesner <leszek@zevenos.com>  Tue, 15 Jan 2019 12:05:19 +0100
+
+neptune-settings-plasma5-profile (2.12) stretch; urgency=medium
+
+  * Add some more kglobalshortcuts for switching virtual desktops
+
+ -- Leszek Lesner <leszek@zevenos.com>  Tue, 15 Jan 2019 11:41:05 +0100
+
+neptune-settings-plasma5-profile (2.11) stretch; urgency=medium
+
+  * Updated excalibur to version 2.7
+
+ -- Leszek Lesner <leszek@zevenos.com>  Wed, 18 Jul 2018 22:16:30 +0200
+
+neptune-settings-plasma5-profile (2.10) stretch; urgency=medium
+
+  * Link to kde4libs QtCurve directory
+
+ -- Leszek Lesner <leszek@zevenos.com>  Wed, 09 May 2018 14:17:31 +0200
+
 neptune-settings-plasma5-profile (2.9) stretch; urgency=medium
 
   * Updated excalibur menu
