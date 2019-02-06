@@ -29,6 +29,8 @@ Kicker.SubMenu {
 
     property alias focusParent: itemListView.focusParent
     property alias model: funnelModel.sourceModel
+    
+    property bool aboutToBeDestroyed: false
 
     visible: false
     hideOnWindowDeactivate: plasmoid.hideOnWindowDeactivate
@@ -38,7 +40,9 @@ Kicker.SubMenu {
     offset: units.smallSpacing
 
     onWindowDeactivated: {
-        plasmoid.expanded = false;
+        if (!aboutToBeDestroyed) {
+            plasmoid.expanded = false;
+        }
     }
 
     mainItem: ItemListView {
@@ -75,6 +79,9 @@ Kicker.SubMenu {
     }
 
     function delayedDestroy() {
+        aboutToBeDestroyed = true;
+        plasmoid.hideOnWindowDeactivate = false;
+        visible = false;
         var timer = Qt.createQmlObject('import QtQuick 2.0; Timer { onTriggered: itemDialog.destroy() }', itemDialog);
         timer.interval = 0;
         timer.start();

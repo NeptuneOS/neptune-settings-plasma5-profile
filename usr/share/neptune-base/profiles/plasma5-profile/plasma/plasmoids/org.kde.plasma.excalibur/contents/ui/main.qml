@@ -261,7 +261,7 @@ Item {
         if (plasmoid.hasOwnProperty("activationTogglesExpanded")) {
             plasmoid.activationTogglesExpanded = !isDash
         }
-        windowSystem.focusOut.connect(enableHideOnWindowDeactivate);
+        windowSystem.focusIn.connect(enableHideOnWindowDeactivate);
         plasmoid.hideOnWindowDeactivate = true;
 
         if (plasmoid.immutability !== PlasmaCore.Types.SystemImmutable) {
