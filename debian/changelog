@@ -1,3 +1,15 @@
+neptune-settings-plasma5-profile (2.16) buster; urgency=medium
+
+  * Add amarok config for kf5 based version
+
+ -- Leszek Lesner <leszek@zevenos.com>  Thu, 30 May 2019 11:07:09 +0200
+
+neptune-settings-plasma5-profile (2.15) buster; urgency=medium
+
+  * Excalibur: Dont close plasmoid when closing subdialog on newer Qt versions
+
+ -- Leszek Lesner <leszek@zevenos.com>  Wed, 06 Feb 2019 16:22:14 +0100
+
 neptune-settings-plasma5-profile (2.14) stretch; urgency=medium
 
   * Fix excalibur sysaction removal and adding

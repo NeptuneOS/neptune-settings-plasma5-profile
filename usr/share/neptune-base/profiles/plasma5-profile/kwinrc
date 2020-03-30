@@ -1,5 +1,7 @@
 [Compositing]
 OpenGLIsUnsafe=false
+MaxFPS=120
+RefreshRate=120
 
 [Desktops]
 Number=4
