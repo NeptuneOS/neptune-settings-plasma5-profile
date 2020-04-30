@@ -1,3 +1,15 @@
+neptune-settings-plasma5-profile (2.18) buster; urgency=medium
+
+  * Emable longDuration 50 for better Plasma speed
+
+ -- Leszek Lesner <leszek@hp-spectrex360>  Fri, 01 May 2020 01:44:22 +0200
+
+neptune-settings-plasma5-profile (2.17) buster; urgency=medium
+
+  * Enable 120 fps for kwin
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 30 Mar 2020 10:10:23 +0200
+
 neptune-settings-plasma5-profile (2.16) buster; urgency=medium
 
   * Add amarok config for kf5 based version
