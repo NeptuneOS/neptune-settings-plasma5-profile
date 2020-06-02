@@ -1,3 +1,10 @@
+neptune-settings-plasma5-profile (2.19) buster; urgency=medium
+
+  * Remove k3b solid actions as they are part of k3b-data upstream packages
+    now
+
+ -- Leszek Lesner <leszek@zevenos.com>  Tue, 02 Jun 2020 05:33:42 +0200
+
 neptune-settings-plasma5-profile (2.18) buster; urgency=medium
 
   * Emable longDuration 50 for better Plasma speed
