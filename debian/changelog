@@ -1,3 +1,9 @@
+neptune-settings-plasma5-profile (2.20) buster; urgency=medium
+
+  * Add default breezerc
+
+ -- Leszek Lesner <leszek@zevenos.com>  Sun, 28 Jun 2020 04:55:38 +0200
+
 neptune-settings-plasma5-profile (2.19) buster; urgency=medium
 
   * Remove k3b solid actions as they are part of k3b-data upstream packages
